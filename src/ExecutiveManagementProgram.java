@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class MasterQueue {
+public class ExecutiveManagementProgram {
 
     int baseSalary = 40000;
 

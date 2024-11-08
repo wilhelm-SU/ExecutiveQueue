@@ -12,7 +12,6 @@ public class Department {
     }
 
     //Getters
-
     public String getName() {
         return name;
     }
@@ -26,7 +25,6 @@ public class Department {
     }
 
     //Misc
-
     public void addExecutive(Person input) {
         executivesQueue.add(input);
     }
